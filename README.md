@@ -1,4 +1,4 @@
-<h1 align="centre"> "Hi, I'm Amrith" 🙋‍♂️ </h1>
+<h1 align="center"> "Hi, I'm Amrith" 🙋‍♂️ </h1>
 <h3 > Studying BTech at MIT Manipal</h3>
 
 <!--
