@@ -1,5 +1,5 @@
 <h1 align="center"> "Hi, I'm Amrith" 🙋‍♂️ </h1>
-<h5 > Studying BTech at MIT Manipal👨‍💻</h3>
+<h2 > Studying BTech at MIT Manipal👨‍💻</h2>
 
 <!--
 **amriths04/amriths04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
