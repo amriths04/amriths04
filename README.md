@@ -9,7 +9,7 @@
     <p align="center">🌱 Learning new things everyday ✨</p>
     <p align="center">❤️ Love coding, TV series, Marvel.</p>
     <p align="center">⚡ Fun fact: I love to learn about absolutely anything.</p>
-    <p align="center">🔍 Find me: <a href="mailto:amrithshet25@gmail.com">amrithshet25@gmail.com</a><br><a href="mailto:amrith_shet@icloud.com"></a></p>
+    <p align="center">🔍 Find me: <a href="mailto:amrithshet25@gmail.com">amrithshet25@gmail.com</a><br><a href="mailto:amrith_shet@icloud.com">amrith_shet@icloud.com</a></p>
 </div>
 
 
