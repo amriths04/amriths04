@@ -9,7 +9,7 @@
     <p align="center">🌱 Learning new things everyday ✨</p>
     <p align="center">❤️ Love coding, TV series, Marvel.</p>
     <p align="center">⚡ Fun fact: I love to learn about absolutely anything.</p>
-    <p align="center">🔍 Find me: <a href="mailto:amrithshet25@gmail.com">amrithshet25@gmail.com</a></p>
+    <p align="center">🔍 Find me: <a href="mailto:amrithshet25@gmail.com">amrithshet25@gmail.com</a><br><<a href="mailto:amrith_shet@icloud.com"></a></p>
 </div>
 
 
@@ -40,7 +40,6 @@
 <div class="section">
     <h3 align="left">Connect with me:</h3>
     <p align="left">
-<a href="mailto:amrith_shet@icloud.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Apple_iCloud_logo.svg/1200px-Apple_iCloud_logo.svg.png" alt="iCloud" width="40" height="40"></a>
         <a href="https://www.linkedin.com/in/amrith-shet-b259a8254" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
         <a href="https://www.geeksforgeeks.org/user/amrithsp976/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="30" width="40" /></a>
     </p>
