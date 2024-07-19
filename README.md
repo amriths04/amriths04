@@ -36,7 +36,7 @@
     </ul>
 </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amriths04" alt="amriths04" /></a> </p>
+
 
 <div class="section">
     <h3 align="left">Connect with me:</h3>
