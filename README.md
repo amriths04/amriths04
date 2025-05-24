@@ -24,7 +24,7 @@
 <h2 align="center">🛠️ Skills</h2>
 <p align="center">
   <b>Programming Languages:</b><br/>
-  C 🌟 | C++ 🚀 | Java ☕ | SQL 🗃️
+  C 🌟 | C++ 🚀 | Java ☕ | SQL 🗃️ | NoSQL
 </p>
 
 <h2 align="center">🎓 Education</h2>
