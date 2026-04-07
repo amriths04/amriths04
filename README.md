@@ -13,7 +13,7 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,html,css,javascript,nodejs,express,mongodb,react,sqlite,git,vscode," />
+  <img src="https://skillicons.dev/icons?i=cpp,java,javascript,react,nodejs,express,mongodb,sqlite,androidstudio,firebase,docker,git,linux,supabase" />
 </p>
 
 <p align="center">
