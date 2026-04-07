@@ -1,4 +1,5 @@
-<h1 align="center">Hey there! I'm Amrith 🙋‍♂️</h1>
+
+![Amrith Shet](https://raw.githubusercontent.com/amriths04/amriths04/main/amrith.svg)
 <h3 align="center">B-Tech IT @ MIT Manipal </h3>
 
 ✨ I believe in building clean, intuitive, and meaningful digital experiences.</p>
