@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 800">
+  <defs>
+    <style>
+      .text {
+        font-family: 'Segoe Script', cursive;
+        font-size: 300px;
+        fill: transparent;
+        stroke: #1234aeff;
+        stroke-width: 2;
+        stroke-dasharray: 2000;
+        stroke-dashoffset: 2000;
+        animation: draw 3s ease forwards, fillIn 2.5s ease forwards 0.5s;
+      }
+
+      @keyframes draw {
+        to {
+          stroke-dashoffset: 0;
+        }
+      }
+
+      @keyframes fillIn {
+        to {
+          fill: #1234aeff;
+        }
+      }
+
+      .bg {
+        fill: #000000ff;
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" class="bg"/>
+
+  <!-- Text -->
+  <text x="50%" y="82%" text-anchor="middle" class="text"> Amrith </text>
+</svg>
