@@ -1,15 +1,16 @@
 
 ![Amrith Shet](https://raw.githubusercontent.com/amriths04/amriths04/main/amrith.svg)
-<h3 align="center">B-Tech IT @ MIT Manipal </h3>
+<h3 align="center">DEV</h3>
 
-✨ I believe in building clean, intuitive, and meaningful digital experiences.</p>
-🌱 Currently exploring: React Native, MERN stack</p>
-🧠 I’ve worked on <strong>FULL-STACK websites, ANDROID apps, and BACKEND </strong>systems using Node.js, MongoDB.</p>
-🎯 I don’t just plan things — I get them done. Start to finish, no matter what.</p>
 
+<p align="center">
+✨ Clean, intuitive digital experiences<br/>
+⚡ React Native • MERN • Android<br/>
+🧠 Full-stack + Backend systems<br/>
+🚀 I don’t just plan things — I get them done. Start to finish, no matter what.
+</p>
 
 ---
-
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
@@ -22,27 +23,31 @@
 </p>
 
 ---
-
-<h2 align="center">🎓 Education</h2>
+<h2 align="center">⚙️ Workflow</h2>
 
 <p align="center">
-  <b>B.Tech in Information Technology</b><br/>
-  Manipal Institute of Technology, India<br/>
-  📅 2022 - 2026 
+⚡ AI-Assisted Dev → 📱 Build (React Native / Android) → ☁️ Backend (Node + DB) → 🚀 Deploy
+</p>
+
+<p align="center">
+  Fast iteration • Clean architecture • Production mindset
 </p>
 
 ---
-
-<h3 align="center">📬 Reach me at:</h3>
-
+<p  align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=amriths04"/>       
+</p>
+<p align="center">
+ <i>Take a look at my repositories and let's get in touch!</i>
+<p  align="center">
 <p align="center">
   <a href="mailto:amrithshet25@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="35"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/amrith-shet-51b05b349/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="35"/>
   </a>
 </p>
 
----
+![Amrith Shet](https://raw.githubusercontent.com/amriths04/amriths04/main/bottom_header.svg)
