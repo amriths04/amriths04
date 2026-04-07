@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 800">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 600">
   <defs>
     <style>
       .text {
         font-family: 'Segoe Script', cursive;
-        font-size: 300px;
+        font-size: 404px;
         fill: transparent;
         stroke: #1234aeff;
         stroke-width: 2;
@@ -25,7 +25,7 @@
       }
 
       .bg {
-        fill: #000000ff;
+        fill: transparent;
       }
     </style>
   </defs>
@@ -34,5 +34,5 @@
   <rect width="100%" height="100%" class="bg"/>
 
   <!-- Text -->
-  <text x="50%" y="82%" text-anchor="middle" class="text"> Amrith </text>
+  <text x="50%" y="88%" text-anchor="middle" class="text"> Amrith </text>
 </svg>
